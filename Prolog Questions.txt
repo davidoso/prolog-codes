@@ -1,0 +1,44 @@
+FAQ:
+
+WHAT IS AN EXPERT SYSTEM?
+In artificial intelligence, an expert system is a computer system that emulates the decision-making ability of a human expert. Expert systems are designed to solve complex problems by reasoning through bodies of knowledge, represented mainly as if–then rules rather than through conventional procedural code.
+
+
+HOW DOES AN EXPERT SYSTEM WORKS?
+Expert systems do not have human capabilities. They use a knowledge base of a particular domain and bring that knowledge to bear on the facts of the particular situation at hand. The knowledge base of an ES also contains heuristic knowledge - rules of thumb used by human experts who work in the domain.
+
+
+WHAT IS THE PURPOSE OF AN EXPERT SYSTEM?
+An expert system is an Artificial Intelligence (AI) application, whose purpose is to use facts and rules, taken from the knowledge of many human experts in a particular field, to help make decisions and solve problems. An expert system is created by a knowledge engineer – a kind of programmer.
+
+
+WHAT IS A KNOWLEDGE ENGINEER?
+A knowledge engineer is a professional engaged in the science of building advanced logic into computer systems in order to try to simulate human decision-making and high-level cognitive tasks. A knowledge engineer supplies some or all of the "knowledge" that is eventually built into the technology.
+
+
+WHAT IS THE ACQUISITION OF KNOWLEDGE?
+Knowledge acquisition is the process of extracting, structuring and organizing knowledge from one source, usually human experts, so it can be used in software such as an ES. This is often the major obstacle in building an ES.
+
+
+WHAT IS A KNOWLEDGE BASE?
+A knowledge base (KB) is a technology used to store complex structured and unstructured information used by a computer system. The initial use of the term was in connection with expert systems which were the first knowledge-based systems.
+
+
+WHAT IS A KNOWLEDGE BASED SYSTEM?
+A knowledge-based system (KBS) is a computer program that reasons and uses a knowledge base to solve complex problems. A knowledge based system has three types of sub-systems: A KNOWLEDGE BASE, A USER INTERFACE AND AN INFERENCE ENGINE.
+
+
+WHAT IS A RULE-BASED EXPERT SYSTEM?
+In computer science, a rule-based system is a set of "if-then" statements that uses a set of assertions, to which rules on how to act upon those assertions are created. In software development, rule-based systems can be used to create software that will provide an answer to a problem in place of a human expert.
+
+
+WHAT IS THE FUNCTION OF THE INFERENCE ENGINE IN AN EXPERT SYSTEM?
+In the field of Artificial Intelligence, inference engine is a component of the system that applies logical rules to the knowledge base to deduce new information. The first inference engines were components of expert systems. The typical expert system consisted of a knowledge base and an inference engine.
+
+
+WHAT IS A KNOWLEDGE MANAGEMENT SYSTEM?
+Knowledge management systems refer to any kind of IT system that stores and retrieves knowledge, improves collaboration, locates knowledge sources, mines repositories for hidden knowledge, captures and uses knowledge, or in some other way enhances the KM process.
+
+
+HOW KNOWLEDGE CAN BE CREATED?
+The ability to create new knowledge is often at the heart of the organization's competitive advantage. Knowledge creation according to the Nonaka's SECI model is about continuous transfer, combination, and conversion of the different types of knowledge, as users practice, interact, and learn.

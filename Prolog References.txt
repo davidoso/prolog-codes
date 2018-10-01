@@ -1,0 +1,61 @@
+REFERENCES:
+https://www.cis.upenn.edu/~matuszek/Concise%20Guides/Concise%20Prolog.html#syntax
+A program, or database, in Prolog consists of one or more predicates; each predicate consists of one or more clauses. A clause is a base clause if it is unconditionally true, that is, it has no "if" part.
+Two clauses belong to the same predicate if they have the same functor (name) and the same arity (number of arguments). Thus, mother(jane) and mother(jane, jim) are different predicates.
+
+http://www.cs.trincoll.edu/~ram/cpsc352/notes/prolog/factsrules.html
+Variables begin with an uppercase letter. Predicate names, function names, and the names for objects must begin with a lowercase letter. Rules for forming names are the same as for the predicate calculus.
+A fact is a predicate expression that makes a declarative statement about the problem domain.
+A rule is a predicate expression that uses logical implication (:-) to describe a relationship among facts:
+    left_hand_side :- right_hand_side.
+This sentence is interpreted as: left_hand_side if right_hand_side.
+
+http://www.inf.ed.ac.uk/teaching/courses/aipp/lecture_slides/lecture2_Fundamentals.ppt
+A Prolog program consists of predicate definitions. A predicate denotes a property or relationship between objects. Definitions consist of clauses. A clause has a head and a body (rule) or just a head (fact). A head consists of a predicate name and arguments.
+
+
+ES EXAMPLES:
+https://www.reddit.com/r/learnprogramming/comments/2mx48l/prolog_basic_medical_expert_system
+https://stackoverflow.com/questions/23378414/save-argument-into-a-fact-from-user-input
+
+
+GAMES EXAMPLES:
+http://cis.stvincent.edu/html/tutorials/prolog/tictac.pro
+http://www.montefiore.ulg.ac.be/~lens/prolog/tutorials/tictactoe.pl
+https://courses.cs.washington.edu/courses/cse341/03sp/slides/PrologEx/tictactoe.pl.txt
+https://github.com/Anniepoo/prolog-examples/blob/master/tictactoe.pl
+
+
+TIC-TAC-TOE EXAMPLES:
+Propuesta de Annie:
+    https://github.com/Anniepoo/prolog-examples/blob/master/tictactoe.pl
+Propuesta de: Br. David Carlson (1989)
+    http://www.mygnet.net/foros/miscelanea/juego-del-gato-en-prolog.2894
+Propuesta de: Robert Pinchbeck (2006)
+    http://www.robertpinchbeck.com/college/work/prolog
+TicTacToe Game using SWI-Prolog:
+    https://www.youtube.com/watch?v=LCJB3h0dmR0
+
+
+GUI:
+http://oefa.blogspot.mx/2008/04/programacion-logica-swi-prolog.html
+http://www.swi-prolog.org/packages/xpce/UserGuide/Contents.html
+http://www.swi-prolog.org/packages/xpce/UserGuide/starting.html (2 Getting started)
+http://www.swi-prolog.org/packages/xpce/UserGuide/modal.html (4.4 Modal dialogs: prompting for answers)
+http://www.swi-prolog.org/packages/xpce/UserGuide/graphics.html (5 Simple graphics)
+https://arxiv.org/abs/cs/0207053 (An Architecture for Making Object-Oriented Systems Available from Prolog)
+
+
+FAMILY TREE:
+http://fcqi.tij.uabc.mx/usuarios/ardiaz/arbol.html
+https://proauge.com/2015/08/30/arbol-genealogico-en-prolog
+https://stackoverflow.com/questions/15042152/dont-repeat-solutions-in-prolog
+https://github.com/andschwa/uidaho-cs470-prolog/blob/master/family.pl
+https://github.com/alexrcameron/Prolog-Family-Tree/blob/master/arc_familyTree.pl
+
+
+DOWNLOADED FILES:
+http://www.unizar.es/pde/fjgaspar/cap1.pdf
+http://www.sc.ehu.es/jiwhehum2/prolog/Temario/Tema1.pdf
+http://www.cs.ubbcluj.ro/~gabis/plf/Doc/SWI-Prolog/Using%20SWI-Prolog.pdf
+https://ai.ia.agh.edu.pl/wiki/_media/pl:dydaktyka:pp:prolog-syntax-terms.pdf
